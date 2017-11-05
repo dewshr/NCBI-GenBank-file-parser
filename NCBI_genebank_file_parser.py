@@ -22,7 +22,7 @@ def ntgenbank():
 	#nuc_genbank = filter(None, nuc_genbank)
 	print len(nuc_genbank)
 	print nuc_genbank[0]
-	length = len(nuc_genbank) #since last element is new line, total length will be total length of list -1
+	length = len(nuc_genbank)
 	print "\nParsing started"
 	output = open('result_ntgenbank.csv','w') # opening a file to write the ouput
 
@@ -32,7 +32,7 @@ def ntgenbank():
 		     'AA_number'+','+'Chromosome'+ ','+'Chromosome_map'+','+ 'NT_seq'+','+'Organism'+'\n')
 	
 	# going through all the genes in the list
-	for n in range(1,length):
+	for n in range(1,length):	#0 index is empty
 		print n
 		test= 'LOCUS  ' + nuc_genbank[n].lstrip('\n')   #removing new line of from individual genebank files
 		query = open('genbank.txt','w')	#creating a genbank file to create query gene bank file
