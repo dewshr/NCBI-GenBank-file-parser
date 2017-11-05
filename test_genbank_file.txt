@@ -1,0 +1,184 @@
+
+LOCUS       NM_000016               1317 bp    mRNA    linear   PRI 09-APR-2017
+DEFINITION  Homo sapiens N-acetyltransferase 2 (NAT2), mRNA.
+ACCESSION   NM_000015
+VERSION     NM_000016.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1317)
+  AUTHORS   Ma C, Gu L, Yang M, Zhang Z, Zeng S, Song R, Xu C and Sun Y.
+  TITLE     rs1495741 as a tag single nucleotide polymorphism of
+            N-acetyltransferase 2 acetylator phenotype associates bladder
+            cancer risk and interacts with smoking: A systematic review and
+            meta-analysis
+  JOURNAL   Medicine (Baltimore) 95 (31), E4417 (2016)
+   PUBMED   27495060
+  REMARK    GeneRIF: NAT2 single nucleotide polymorphism associated with the
+            risk bladder cancer development and interacts with smoking.
+            Review article
+REFERENCE   2  (bases 1 to 1317)
+  AUTHORS   Jimenez-Jimenez FJ, Alonso-Navarro H, Garcia-Martin E and Agundez
+            JA.
+  TITLE     NAT2 polymorphisms and risk for Parkinson's disease: a systematic
+            review and meta-analysis
+  JOURNAL   Expert Opin Drug Metab Toxicol 12 (8), 937-946 (2016)
+   PUBMED   27216438
+  REMARK    GeneRIF: Data on NAT2 gene polymorphisms obtained from the current
+            meta-analysis do not support a major association with Parkinson's
+            diease risk, except in Asian populations
+            Review article
+REFERENCE   3  (bases 1 to 1317)
+  AUTHORS   Suarez-Kurtz G, Fuchshuber-Moraes M, Struchiner CJ and Parra EJ.
+  TITLE     Single nucleotide polymorphism coverage and inference of
+            N-acetyltransferase-2 acetylator phenotypes in wordwide population
+            groups
+  JOURNAL   Pharmacogenet. Genomics 26 (8), 363-369 (2016)
+   PUBMED   27136043
+  REMARK    GeneRIF: Single nucleotide polymorphism is associated with
+            different N-acetyltransferase-2 acetylator phenotypes in wordwide
+            population groups.
+REFERENCE   4  (bases 1 to 1317)
+  AUTHORS   Chamorro JG, Castagnino JP, Musella RM, Nogueras M, Frias A, Visca
+            M, Aidar O, Costa L and de Larranaga GF.
+  TITLE     tagSNP rs1495741 as a useful molecular marker to predict
+            antituberculosis drug-induced hepatotoxicity
+  JOURNAL   Pharmacogenet. Genomics 26 (7), 357-361 (2016)
+   PUBMED   27104815
+  REMARK    GeneRIF: NAT2 gene variants were associated with antituberculosis
+            drug-induced hepatotoxicity.
+REFERENCE   5  (bases 1 to 1317)
+  AUTHORS   Vatsis KP, Weber WW, Bell DA, Dupret JM, Evans DA, Grant DM, Hein
+            DW, Lin HJ, Meyer UA, Relling MV et al.
+  TITLE     Nomenclature for N-acetyltransferases
+  JOURNAL   Pharmacogenetics 5 (1), 1-17 (1995)
+   PUBMED   7773298
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 1317)
+  AUTHORS   Hickman D, Risch A, Camilleri JP and Sim E.
+  TITLE     Genotyping human polymorphic arylamine N-acetyltransferase:
+            identification of new slow allotypic variants
+  JOURNAL   Pharmacogenetics 2 (5), 217-226 (1992)
+   PUBMED   1306121
+REFERENCE   7  (bases 1 to 1317)
+  AUTHORS   Deguchi T.
+  TITLE     Sequences and expression of alleles of polymorphic arylamine
+            N-acetyltransferase of human liver
+  JOURNAL   J. Biol. Chem. 267 (25), 18140-18147 (1992)
+   PUBMED   1381364
+REFERENCE   8  (bases 1 to 1317)
+  AUTHORS   Grant DM, Blum M and Meyer UA.
+  TITLE     Polymorphisms of N-acetyltransferase genes
+  JOURNAL   Xenobiotica 22 (9-10), 1073-1081 (1992)
+   PUBMED   1441598
+REFERENCE   9  (bases 1 to 1317)
+  AUTHORS   Blum M, Grant DM, McBride W, Heim M and Meyer UA.
+  TITLE     Human arylamine N-acetyltransferase genes: isolation, chromosomal
+            localization, and functional expression
+  JOURNAL   DNA Cell Biol. 9 (3), 193-203 (1990)
+   PUBMED   2340091
+REFERENCE   10 (bases 1 to 1317)
+  AUTHORS   Grant DM, Lottspeich F and Meyer UA.
+  TITLE     Evidence for two closely related isozymes of arylamine
+            N-acetyltransferase in human liver
+  JOURNAL   FEBS Lett. 244 (1), 203-207 (1989)
+   PUBMED   2924904
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC025062.6, D90042.1 and
+            AI460128.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: This gene encodes an enzyme that functions to both
+            activate and deactivate arylamine and hydrazine drugs and
+            carcinogens. Polymorphisms in this gene are responsible for the
+            N-acetylation polymorphism in which human populations segregate
+            into rapid, intermediate, and slow acetylator phenotypes.
+            Polymorphisms in this gene are also associated with higher
+            incidences of cancer and drug toxicity. A second arylamine
+            N-acetyltransferase gene (NAT1) is located near this gene (NAT2).
+            [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: D90042.1, BC067218.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1966682, SAMEA1968540
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1317
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8p22"
+     gene            1..1317
+                     /gene="NAT2"
+                     /gene_synonym="AAC2; NAT-2; PNAT"
+                     /note="N-acetyltransferase 2"
+                     /db_xref="GeneID:10"
+                     /db_xref="HGNC:HGNC:7646"
+                     /db_xref="MIM:612182"
+     CDS             108..980
+                     /gene="NAT2"
+                     /gene_synonym="AAC2; NAT-2; PNAT"
+                     /EC_number="2.3.1.5"
+                     /note="arylamide acetylase 2; N-acetyltransferase 2
+                     (arylamine N-acetyltransferase); N-acetyltransferase type
+                     2"
+                     /codon_start=1
+                     /product="arylamine N-acetyltransferase 2"
+                     /protein_id="NP_000006.2"
+                     /db_xref="CCDS:CCDS6008.1"
+                     /db_xref="GeneID:10"
+                     /db_xref="HGNC:HGNC:7646"
+                     /db_xref="MIM:612182"
+                     /translation="MDIEAYFERIGYKNSRNKLDLETLTDILEHQIRAVPFENLNMHC
+                     GQAMELGLEAIFDHIVRRNRGGWCLQVNQLLYWALTTIGFQTTMLGGYFYIPPVNKYS
+                     TGMVHLLLQVTIDGRNYIVDAGSGSSSQMWQPLELISGKDQPQVPCIFCLTEERGIWY
+                     LDQIRREQYITNKEFLNSHLLPKKKHQKIYLFTLEPRTIEDFESMNTYLQTSPTSSFI
+                     TTSFCSLQTPEGVYCLVGFILTYRKFNYKDNTDLVEFKTLTEEEVEEVLRNIFKISLG
+                     RNLVPKPGDGSLTI"
+     misc_feature    423..428
+                     /gene="NAT2"
+                     /gene_synonym="AAC2; NAT-2; PNAT"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P11245.1);
+                     Region: Substrate binding. {ECO:0000305}"
+     regulatory      1301..1306
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="NAT2"
+                     /gene_synonym="AAC2; NAT-2; PNAT"
+BASE COUNT      418 a    252 c    263 g    384 t
+ORIGIN      
+        1 tgagatcact tcccttgcag actttggaag ggagagcact ttattacaga ccttggaagc
+       61 aagaggattg cattcagcct agttcctggt tgctggccaa agggatcatg gacattgaag
+      121 catattttga aagaattggc tataagaact ctaggaacaa attggacttg gaaacattaa
+      181 ctgacattct tgagcaccag atccgggctg ttccctttga gaaccttaac atgcattgtg
+      241 ggcaagccat ggagttgggc ttagaggcta tttttgatca cattgtaaga agaaaccggg
+      301 gtgggtggtg tctccaggtc aatcaacttc tgtactgggc tctgaccaca atcggttttc
+      361 agaccacaat gttaggaggg tatttttaca tccctccagt taacaaatac agcactggca
+      421 tggttcacct tctcctgcag gtgaccattg acggcaggaa ttacattgtc gatgctgggt
+      481 ctggaagctc ctcccagatg tggcagcctc tagaattaat ttctgggaag gatcagcctc
+      541 aggtgccttg cattttctgc ttgacagaag agagaggaat ctggtacctg gaccaaatca
+      601 ggagagagca gtatattaca aacaaagaat ttcttaattc tcatctcctg ccaaagaaga
+      661 aacaccaaaa aatatactta tttacgcttg aacctcgaac aattgaagat tttgagtcta
+      721 tgaatacata cctgcagacg tctccaacat cttcatttat aaccacatca ttttgttcct
+      781 tgcagacccc agaaggggtt tactgtttgg tgggcttcat cctcacctat agaaaattca
+      841 attataaaga caatacagat ctggtcgagt ttaaaactct cactgaggaa gaggttgaag
+      901 aagtgctgag aaatatattt aagatttcct tggggagaaa tctcgtgccc aaacctggtg
+      961 atggatccct tactatttag aataaggaac aaaataaacc cttgtgtatg tatcacccaa
+     1021 ctcactaatt atcaacttat gtgctatcag atatcctctc taccctcacg ttattttgaa
+     1081 gaaaatccta aacatcaaat actttcatcc ataaaaatgt cagcatttat taaaaaacaa
+     1141 taacttttta aagaaacata aggacacatt ttcaaattaa taaaaataaa ggcattttaa
+     1201 ggatggcctg tgattatctt gggaagcaga gtgattcatg ctagaaaaca tttaatattg
+     1261 atttattgtt gaattcatag taaattttta ctggtaaatg aataaagaat attgtgg
+//
