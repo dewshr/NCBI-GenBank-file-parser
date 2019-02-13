@@ -8,9 +8,9 @@ You can provide a file with single genbank entry or multiple entries. After runn
 NOTE: this program will only give output to the gene bank files with CDS features. The fields for certain columns may be empty if respective information is not present in the genbank file.
 
 
-############################# Program Requirements ###################################################
+############################# Program Requirements ######################################
 - installation of Biopython
 - python 2.7
 
-#################################### NCBI gene bank file link #########################################
+#################################### NCBI gene bank file link ############################
 ftp://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/annotation/GRCh37_latest/refseq_identifiers/
